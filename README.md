@@ -1,6 +1,6 @@
 # CMPE-255-Data-Mining Term Project
 
-## Submission for- Anay Naik, Jui Thombre and Kajal Dhanotia
+## Submission by- Anay Naik, Jui Thombre and Kajal Dhanotia
 
 ### Steps to run the Jupyter Notebook in the repo-https://github.com/kajaldhanotia/CMPE-255-Data-Mining <br>
 
